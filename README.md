@@ -1,2 +1,2 @@
 # Lab4
-![image](https://user-images.githubusercontent.com/89864711/225211267-15ec9c65-6841-4867-9750-e0c35f3821a5.png)
+![image](https://user-images.githubusercontent.com/89864711/225214894-215e45aa-a083-400b-bd5e-2b1fa5a17f2b.png)
